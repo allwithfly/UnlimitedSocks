@@ -40,6 +40,4 @@
 * 更多详情请访问 [whmcs模块的shadowsocks插件](http://www.mak-blog.com/whmcs-shadowsocks-plugin.html)
 * 或者 [UnlimitedSocks安装教程](https://www.loli.ren/archives/48/)
 
-## 如果感觉插件好用，嘘寒问暖不如打笔巨款～
-* Paypal捐赠 zzm317@outlook.com
-* 支付宝捐赠 admin@loli.ren
+
